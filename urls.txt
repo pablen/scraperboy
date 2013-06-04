@@ -1,0 +1,3 @@
+http://www.example.com/resource/view.php?id=5561
+http://www.example.com/resource/view.php?id=5562
+http://www.example.com/resource/view.php?id=5563

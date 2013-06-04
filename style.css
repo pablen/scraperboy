@@ -1,0 +1,35 @@
+body{
+	font-size: 11px;
+	font-family: Verdana;
+	background-color: #E0E0E0;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+td, th{
+	padding: 3px 5px;
+	border: 1px solid gray;
+}
+
+span.nota{
+	padding: 0 3px 0 0;
+	color: red;
+}
+
+span.cite{
+	color: green;
+}
+
+span.link{
+	color: #767751;
+}
+
+span.img{
+	color: blue;
+}
+
+span.embed, span.object{
+	color: orange;
+}
